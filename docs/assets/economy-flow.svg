@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 420" role="img" aria-labelledby="title desc">
+<title id="title">Nostalgia SMP economy authority flow</title><desc id="desc">Player, agents, shops and market submit requests to one transaction service. The service validates balances and inventory, records a ledger event, and persists committed state. User interfaces and visible entities never own economic state.</desc>
+<rect width="1100" height="420" rx="18" fill="#101d2d"/><g font-family="Arial,sans-serif" fill="#edf3fb">
+<text x="48" y="54" font-size="26" font-weight="700">ONE ECONOMY · ONE AUTHORITY</text><text x="48" y="82" font-size="15" fill="#a9bdd2">Every trade, reward and wager follows the same validation path.</text>
+<g stroke="#8da6c3" stroke-width="3" fill="none"><path d="M205 180H300M500 180H585M785 180H875"/><path d="M400 225V290H675V225"/></g>
+<g fill="#203b58" stroke="#6f9ac2" stroke-width="2"><rect x="48" y="130" width="157" height="100" rx="12"/><rect x="300" y="130" width="200" height="100" rx="12"/><rect x="585" y="130" width="200" height="100" rx="12"/><rect x="875" y="130" width="175" height="100" rx="12"/></g>
+<g font-size="20" font-weight="700" text-anchor="middle"><text x="126" y="170">REQUESTS</text><text x="126" y="198" font-size="14" font-weight="400">Player · Agents</text><text x="126" y="217" font-size="14" font-weight="400">Shops · Market</text><text x="400" y="170">TRANSACTION</text><text x="400" y="198">SERVICE</text><text x="685" y="170">LEDGER</text><text x="685" y="198">EVENT</text><text x="962" y="170">PERSISTED</text><text x="962" y="198">STATE</text></g>
+<g fill="#263f34" stroke="#78a985" stroke-width="2"><rect x="300" y="290" width="375" height="76" rx="12"/></g><g text-anchor="middle"><text x="487" y="321" font-size="18" font-weight="700">VALIDATE BEFORE COMMIT</text><text x="487" y="346" font-size="14">Funds · Ownership · Reservations · Idempotency</text></g>
+<g fill="#f0c879"><path d="M280 172l14 8-14 8zM565 172l14 8-14 8zM855 172l14 8-14 8z"/></g>
+<text x="48" y="390" font-size="14" fill="#a9bdd2">UI and entities display state; they never grant currency or decide ownership.</text>
+</g></svg>
