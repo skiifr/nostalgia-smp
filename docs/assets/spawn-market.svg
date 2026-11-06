@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Nostalgia SMP spawn marketplace</title><desc id="desc">A block-built Minecraft-inspired spawn plaza at sunset, with a central fountain, timber market stalls, lanterns, trees and distant castle towers.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#26365f"/><stop offset=".55" stop-color="#d47c66"/><stop offset="1" stop-color="#f3c27a"/></linearGradient><linearGradient id="stone" x2="0" y2="1"><stop stop-color="#9a9a8c"/><stop offset="1" stop-color="#555b62"/></linearGradient></defs>
+<rect width="1200" height="420" fill="url(#sky)"/><circle cx="940" cy="105" r="52" fill="#ffe5a1" opacity=".9"/>
+<g fill="#27344b"><path d="M0 230V140h80v-35h55v125h75V165h45v-65h45v130h70v-80h60v80h70v-55h55v-75h40v130h90v-60h45v-85h55v145h85v-45h55v-90h50v135h85v-60h60v-95h40v155h65v-80h55v-55h50v135h55v-55h65v100H0z"/></g>
+<g fill="#46566a"><path d="M80 240V115h55V75h30v165zM270 240V130h45V85h30v155zM820 240V120h45V55h35v185zM1040 240V110h50V65h35v175z"/></g>
+<path d="M0 265H1200V420H0z" fill="#58645c"/><path d="M0 315H1200V420H0z" fill="#77796c"/>
+<g fill="#b0a48a"><path d="M0 330h1200v22H0z"/><path d="M70 280h170v16H70zM300 280h170v16H300zM730 280h180v16H730zM960 280h170v16H960z"/></g>
+<g stroke="#403d3a" stroke-width="8"><path d="M120 275v-92h155v92M930 275v-92h155v92"/></g>
+<g fill="#8b583e"><path d="M105 190l92-65 93 65zM915 190l92-65 93 65z"/></g>
+<g fill="#d6b06c"><path d="M125 200h145v75H125zM935 200h145v75H935z"/></g>
+<g fill="#5b3e32"><path d="M155 215h22v60h-22zM220 215h22v60h-22zM965 215h22v60h-22zM1030 215h22v60h-22z"/></g>
+<g fill="#f7d47e"><rect x="190" y="215" width="26" height="26"/><rect x="1000" y="215" width="26" height="26"/></g>
+<g><path d="M505 290h190l-28 35H533z" fill="#b3a58b"/><path d="M535 250h130l-20 40H555z" fill="#8f9b9b"/><rect x="570" y="205" width="60" height="45" fill="#70b8c4"/><path d="M570 205h60l-12-24h-36z" fill="#d4e8e8"/><path d="M585 180h30v-30h-30z" fill="#91d5df"/></g>
+<g fill="#293d32"><path d="M35 275l35-95 35 95zM350 275l40-115 40 115zM790 275l35-100 35 100zM1110 275l35-110 35 110z"/></g><g fill="#64865a"><rect x="48" y="230" width="44" height="42"/><rect x="365" y="210" width="50" height="50"/><rect x="805" y="220" width="42" height="42"/><rect x="1125" y="210" width="48" height="52"/></g>
+<g fill="#ffdc8a"><circle cx="95" cy="250" r="7"/><circle cx="385" cy="230" r="7"/><circle cx="825" cy="240" r="7"/><circle cx="1145" cy="230" r="7"/></g>
+<g fill="#3b4757" opacity=".85"><path d="M0 385h1200v35H0z"/></g>
+<g fill="#f2d6a1" font-family="monospace" font-size="22" font-weight="bold"><text x="42" y="407">SPAWN</text><text x="1040" y="407">MARKET DISTRICT</text></g>
+</svg>
