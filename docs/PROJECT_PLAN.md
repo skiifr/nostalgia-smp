@@ -10,6 +10,10 @@ Recreate the atmosphere and progression of classic Minecraft economy servers fro
 
 The player should be able to log in, see familiar player-like competitors, gather resources, visit spawn, sell goods, browse listings, negotiate trades, take risks, open crates and compete for wealth and influence.
 
+![Spawn marketplace concept](assets/spawn-market.svg)
+
+*Concept art for the intended social hub. This is a visual direction reference, not a claim that the build exists.*
+
 This is not intended to be a normal village/NPC survival add-on. The simulated population must participate in a coherent economy.
 
 ## 2. Core gameplay loop
