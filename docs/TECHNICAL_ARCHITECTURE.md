@@ -96,6 +96,10 @@ Display state and submit requests. They are not trusted sources of balances, own
 Stores committed state and recovery information. It must expose explicit success/failure results; callers must not assume a write succeeded.
 
 ## 4. Core data model (initial proposal)
+![Economy authority and transaction flow](assets/economy-flow.svg)
+
+*All economic actors submit requests to one transaction service. The diagram is a design rule, not an implemented system.*
+
 
 Use stable string IDs and explicit schema versions.
 
