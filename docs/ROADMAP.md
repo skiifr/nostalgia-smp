@@ -6,6 +6,10 @@
 
 Build a vertical slice that works in a real Bedrock world before expanding the feature set. Each milestone must have a demonstrable in-client result, automated tests where possible, and reload/recovery verification.
 
+![Spawn marketplace concept](assets/spawn-market.svg)
+
+*Target atmosphere reference; phases below remain planned and none are marked complete.*
+
 ## Phase 0 — Repository and technical validation
 
 **Goal:** prove the toolchain and target API before committing to architecture.
