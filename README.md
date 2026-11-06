@@ -4,6 +4,14 @@ A Bedrock-first, single-player Economy SMP simulation inspired by the 2012–201
 
 The player enters a persistent survival world populated by simulated competitors with player-style identities. These agents gather and trade resources, negotiate deals, compete in the market, accumulate wealth and participate in a shared economy.
 
+![Nostalgia SMP spawn marketplace concept](docs/assets/spawn-market.svg)
+
+*The visual direction: a familiar old-school spawn hub, with the marketplace as the social and economic centre.*
+
+![Player-style simulated competitors](docs/assets/agent-population.svg)
+
+*Miner, farmer and merchant are the first planned agent roles. These are concept illustrations, not in-game screenshots or implemented assets.*
+
 > **Status:** Planning / pre-implementation. This repository contains the product specification, architecture decisions, open questions and roadmap. No working gameplay systems are claimed yet.
 
 ## Product pillars
